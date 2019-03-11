@@ -12,4 +12,4 @@ whatis type
 #### Search for functions and methods
 
 * https://pypi.org/project/python-ctags/
-*https://github.com/jonashaag/python-ctags3
+* https://github.com/jonashaag/python-ctags3
