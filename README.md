@@ -13,3 +13,4 @@ whatis type
 
 * https://pypi.org/project/python-ctags/
 * https://github.com/jonashaag/python-ctags3
+* https://github.com/cloggo/python-ctags
